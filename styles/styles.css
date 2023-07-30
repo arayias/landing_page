@@ -176,5 +176,15 @@ a{
 
 .email-input:active{
   outline: #2563eb solid 2px;
-  
+
+}
+
+footer{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  padding: 2% 10%;
+  background-color: #1F2937;
 }
