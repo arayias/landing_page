@@ -172,6 +172,7 @@ a{
   border: none;
   padding: 0 10px;
   outline: #3b82f6 solid 2px;
+  color: black;
 }
 
 .email-input:active{
